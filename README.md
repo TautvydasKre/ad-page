@@ -226,3 +226,8 @@ Method: PATCH
 Method: DELETE
 URL: http://localhost:5000/api/likes/:id
 Headers: Authorization: Bearer <your_jwt_token>
+
+# Admin user
+   
+   admin@gmail.com
+   admin
