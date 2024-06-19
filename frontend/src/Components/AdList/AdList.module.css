@@ -1,0 +1,13 @@
+body{
+  color: var(--mantine-color-red-2);
+}
+.adsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 2em;
+}
+
+.divider {
+  box-shadow: 0 0 10px rgb(255, 0, 255);}
